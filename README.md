@@ -12,6 +12,8 @@ Looking at the difference between BitGenerators and Generators.
 Simple Random Data (sequences and arrays, real values, choice and bytes function) 
 Permutation function
 
+Describe each section with plots and descriptive stats. 
+
 # References to use
 
 1.  https://numpy.org/doc/stable/reference/random/index.html
