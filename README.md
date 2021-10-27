@@ -23,4 +23,4 @@ Describe each section with plots and descriptive stats.
 4. https://www.freecodecamp.org/news/python-crash-course/ (python pic)
 5. https://www.w3schools.com/howto/howto_css_images_side_by_side.asp (align pics side by side)
 6. https://www.fiverr.com/naazneen_jatu/create-python-jupyter-notebooks (jUPYTER pYTHON pIC)
-7.
+7.https://towardsdatascience.com/markdown-cells-jupyter-notebook-d3bea8416671 (HTML work)
