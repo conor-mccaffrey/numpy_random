@@ -60,4 +60,5 @@ you also need to discuss the BitGenerator as well
 28.  https://www.shmoop.com/probability-statistics/discrete-continuous-data.html [23]
 29.  https://thatsmaths.com/2016/12/22/twenty-heads-in-succession-how-long-will-we-wait/ [24]
 30.  https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.choice.html#numpy.random.Generator.choice [25]
-31.  
+31.  https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list [26]
+32.  https://numpy.org/doc/stable/reference/generated/numpy.asarray.html [27]
