@@ -49,3 +49,15 @@ you also need to discuss the BitGenerator as well
 17. https://pythonguides.com/python-numpy-random/ [12]
 18. Python for Data Analysis, Wes McKinney, O'Reilly,2018] [13]
 19. https://www.merriam-webster.com/dictionary/permute [14]
+20. https://medium.com/analytics-vidhya/editing-data-visualization-in-python-64f42225ba21 [15]  (matplotlib editing plots)
+21. DEV Community. Subplotting with matplotlib and seaborn. [online] Available at: https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8 [Accessed 30 Oct. 2021]. [16]
+22. https://docs.python.org/3/tutorial/errors.html) [17]
+23.  https://matplotlib.org/stable/tutorials/text/text_props.html [18]
+24.  https://htmlcolorcodes.com/ [19]
+25.  https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.integers.html#numpy.random.Generator.integers [20]
+26.  https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.random.html#numpy.random.Generator.random[21]
+27.  https://corporatefinanceinstitute.com/resources/knowledge/other/uniform-distribution/ [22]
+28.  https://www.shmoop.com/probability-statistics/discrete-continuous-data.html [23]
+29.  https://thatsmaths.com/2016/12/22/twenty-heads-in-succession-how-long-will-we-wait/ [24]
+30.  https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.choice.html#numpy.random.Generator.choice [25]
+31.  
