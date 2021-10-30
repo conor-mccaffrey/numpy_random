@@ -24,6 +24,7 @@ ____
 
 Give a fluid description of each parameter - play with them
 Look in PCG64 and how it differs from Marsienne Twister
+you also need to discuss the BitGenerator as well 
 
 
 # References to use
@@ -47,3 +48,4 @@ Look in PCG64 and how it differs from Marsienne Twister
 16. https://www.cryptologie.net/article/331/how-does-the-mersennes-twister-work/ [11]
 17. https://pythonguides.com/python-numpy-random/ [12]
 18. Python for Data Analysis, Wes McKinney, O'Reilly,2018] [13]
+19. https://www.merriam-webster.com/dictionary/permute [14]
