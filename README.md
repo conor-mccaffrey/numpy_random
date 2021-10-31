@@ -68,3 +68,5 @@ you also need to discuss the BitGenerator as well
 36. https://ipython-books.github.io/13-introducing-the-multidimensional-array-in-numpy-for-fast-array-computations/ [31]
 37. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.permutation.html#numpy.random.Generator.permutation [32]
 38. https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy [33]
+39. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.permuted.html#numpy.random.Generator.permuted[34]
+40. 
