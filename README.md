@@ -63,3 +63,8 @@ you also need to discuss the BitGenerator as well
 31.  https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list [26]
 32.  https://numpy.org/doc/stable/reference/generated/numpy.asarray.html [27]
 33.  https://stackoverflow.com/questions/31594549/how-do-i-change-the-figure-size-for-a-seaborn-plot [28]
+34.   https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.bytes.html#numpy.random.Generator.bytes [29]
+35. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.shuffle.html#numpy.random.Generator.shuffle   [30]
+36. https://ipython-books.github.io/13-introducing-the-multidimensional-array-in-numpy-for-fast-array-computations/ [31]
+37. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.permutation.html#numpy.random.Generator.permutation [32]
+38. https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy [33]
