@@ -69,4 +69,6 @@ you also need to discuss the BitGenerator as well
 37. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.permutation.html#numpy.random.Generator.permutation [32]
 38. https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy [33]
 39. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.permuted.html#numpy.random.Generator.permuted[34]
-40. 
+40. https://stattrek.com/probability-distributions/probability-distribution.aspx [35]
+41. https://stackoverflow.com/questions/48655801/tables-in-markdown-in-jupyter[36]
+42. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.uniform.html#numpy.random.Generator.uniform[37]
