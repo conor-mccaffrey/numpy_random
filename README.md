@@ -72,3 +72,7 @@ you also need to discuss the BitGenerator as well
 40. https://stattrek.com/probability-distributions/probability-distribution.aspx [35]
 41. https://stackoverflow.com/questions/48655801/tables-in-markdown-in-jupyter[36]
 42. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.uniform.html#numpy.random.Generator.uniform[37]
+43. https://www.investopedia.com/terms/u/uniform-distribution.asp[38]
+44. https://www.investopedia.com/terms/p/pdf.asp[39].
+45. https://numpy.org/doc/stable/reference/generated/numpy.ones_like.html[40]
+46. https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html[41]
