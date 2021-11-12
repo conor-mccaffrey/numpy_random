@@ -76,3 +76,5 @@ you also need to discuss the BitGenerator as well
 44. https://www.investopedia.com/terms/p/pdf.asp[39].
 45. https://numpy.org/doc/stable/reference/generated/numpy.ones_like.html[40]
 46. https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html[41]
+47. https://www.investopedia.com/terms/n/normaldistribution.asp [42]
+48. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html#numpy.random.Generator.normal[43]
