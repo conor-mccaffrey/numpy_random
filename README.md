@@ -89,3 +89,7 @@ you also need to discuss the BitGenerator as well
 57. https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/[52]
 58. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.pareto.html#numpy.random.Generator.pareto [53]
 59. https://www.definitions.net/definition/pareto+index [54]
+60. https://towardsdatascience.com/gamma-distribution-intuition-derivation-and-examples-55f407423840 [55]
+61. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.gamma.html#numpy.random.Generator.gamma [56]
+62. https://www.mygreatlearning.com/blog/gamma-distribution/ [57]
+63. https://www.investopedia.com/terms/s/skewness.asp [58]
