@@ -9,20 +9,10 @@ Looking at nump random package and new updates
 # Initial Work
 
 Looking at the difference between BitGenerators and Generators.
-Simple Random Data (sequences and arrays, real values, choice and bytes function) 
-Permutation function
 
-Describe each section with plots and descriptive stats. 
-
-Tomorrow:
-
-Numpy random
-Tie in both sections
-Begin next section
 
 ____
 
-Give a fluid description of each parameter - play with them
 Look in PCG64 and how it differs from Marsienne Twister
 you also need to discuss the BitGenerator as well 
 
@@ -93,3 +83,7 @@ you also need to discuss the BitGenerator as well
 61. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.gamma.html#numpy.random.Generator.gamma [56]
 62. https://www.mygreatlearning.com/blog/gamma-distribution/ [57]
 63. https://www.investopedia.com/terms/s/skewness.asp [58]
+64. https://towardsdatascience.com/gamma-distribution-intuition-derivation-and-examples-55f407423840#:~:text=Poisson%20distribution%20is%20used%20to,until%20the%20k%2Dth%20event.[59]
+65. https://numpy.org/doc/stable/reference/random/generator.html [60]
+66. https://numpy.org/doc/stable/reference/random/bit_generators/generated/numpy.random.SeedSequence.html#numpy.random.SeedSequence [61]
+67. https://numpy.org/doc/stable/reference/random/performance.html[62]
