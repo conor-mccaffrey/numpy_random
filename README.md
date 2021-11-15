@@ -1,10 +1,9 @@
 # GMIT HDip Data Analytics 2021
-# Programming for Data Analysis 
-***
-## An investigation into the numpy.random package
+ 
+## Programming for Data Analysis <br> An investigation into the numpy.random package
 ### Conor McCaffrey
 ***
-## Assignment
+## Assignment Overview
 This assignment is a brief overview of the use and purpose of the numpy.random package.
 There are <b>four</b> distinct tasks that have been addressed in this Jupyter notebook:
 
