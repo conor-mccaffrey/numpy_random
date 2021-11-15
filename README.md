@@ -6,7 +6,7 @@
 ***
 ## Assignment
 This assignment is a brief overview of the use and purpose of the numpy.random package.
-There are four distinct tasks that have been addressed in this Jupyter notebook:
+There are <b>four</b> distinct tasks that have been addressed in this Jupyter notebook:
 
 1. Explain the overall purpose of the package.
 
@@ -39,10 +39,15 @@ Seaborn is also a data visualisation library in Python, which was incorporated f
 
 Scipy.special is a Python libray used for scientific computing and technical computing [4]
 
+VSCode (Visual Studio Code) was also used in completing this README file. I like to use VSCode as there is an option called 'Markdown Preview Enhanced' which lets you visualise your README file in realtime.
+https://code.visualstudio.com/
+
+
 ## How to run the Jupyter Notebook
 For this assignment, I used both Jupyter Notebook and Jupyter Lab at various stages. The asssignment should render on both (and GitHub) without any difficulty. Here are some instructions on how to run the notebook.
 
-1.) Download the Anaconda Distribution for Python 3.8.8. Anaconda also contains Jupyter Lab and Jupyter Notebook
+1).  Download the Anaconda Distribution for Python 3.8.8. Anaconda also contains Jupyter Lab and Jupyter Notebook
+https://www.anaconda.com/distribution/
 
 2). Go to Github web site and search for 'conor-mccaffrey'
 https://github.com/conor-mccaffrey
@@ -54,6 +59,12 @@ https://github.com/conor-mccaffrey
 git clone https://github.com/conor-mccaffrey/numpy_random.git
 This will clone the repository on your local machine.
 
+### Some thoughts on the Assignment
+I found the assignment to be a brilliant way to delve into the numpy.random package while concurrently learning the functionalities of Jupyter. To get into a project and start coding/doing hands on work, is much more beneficial than simply reading about how a program works. One thing that I found frustrating however was the cross-over between Jupyter and GitHub. For the most part, this was seamless however at the end my pictures (which rendered on Jupyter with no issue) would not appear correctly on GitHub. This forced me to change the coding for the pictures. Initially, I had referenced downloaded images using the standard coding "!(xxx)[xxxxx.png/jpg]" however this no longer worked suddenly. I searched GitHub on Google and it appeared there was a software update recently however whether this is related I am unsure. I searched online extensively for a workaround which I found by then simply 'dragging' the image onto the Jupyter notebook. This is crude and makes the file quite large but works. 
+Other than that one issue(which took time so solve), I found the crossover okay. It was very interesting to learn how the values generated from numpy.random are in fact 'pseudo-random' and with the incorporation of 'Seeding', we can predict the set values that are generated.
+I approached the project quite methodically, breaking the assignment down into smaller sections and noting references as I progressed. I hope the resulting Jupyter notebook displays what I have learnt about both the package and also what I have learnt in the use of Jupyter.
+
+<i> Thank you. </i>
 
 ## References
 1. https://www.activestate.com/resources/quick-reads/what-is-numpy-used-for-in-python/
