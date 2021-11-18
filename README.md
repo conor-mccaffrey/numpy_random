@@ -4,6 +4,7 @@
 ### Conor McCaffrey
 ***
 You can view the static version of the notebook by clicking the following button:
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/conor-mccaffrey/numpy_random/blob/main/numpy_random.ipynb)
 
 Alternatively, you can view the notebook in dynamic form by clicking the following button :
