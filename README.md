@@ -3,8 +3,8 @@
 ## Programming for Data Analysis <br> An investigation into the numpy.random package
 ### Conor McCaffrey
 ***
-You can view the notebook at th efollowing URL:
-https://nbviewer.org/github/conor-mccaffrey/numpy_random/blob/main/numpy_random.ipynb
+You can view the notebook at the following URL:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/conor-mccaffrey/numpy_random/blob/main/numpy_random.ipynb)
 
 
 
