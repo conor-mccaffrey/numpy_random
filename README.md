@@ -3,6 +3,11 @@
 ## Programming for Data Analysis <br> An investigation into the numpy.random package
 ### Conor McCaffrey
 ***
+You can view the notebook at th efollowing URL:
+https://nbviewer.org/github/conor-mccaffrey/numpy_random/blob/main/numpy_random.ipynb
+
+
+
 ## Assignment Overview
 This assignment is a brief overview of the use and purpose of the numpy.random package.
 There are <b>four</b> distinct tasks that have been addressed in this Jupyter notebook:
