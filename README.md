@@ -64,9 +64,12 @@ https://github.com/conor-mccaffrey
 
 3). Enter the Repositories section, and select the repository called 'numpy_random'. 
 
-* Another way to acheive the same result is to clone the SSH and enter the following script into cmdr:
+* Another way to achieve the same result is to clone the SSH and enter the following script into cmdr:
 git clone https://github.com/conor-mccaffrey/numpy_random.git
 This will clone the repository on your local machine.
+
+* Ensure NumPy is running version 1.21
+* Refer ti requirements.txt for info on modules incorporated
 
 ### Some thoughts on the Assignment
 I found the assignment to be a brilliant way to delve into the numpy.random package while concurrently learning the functionalities of Jupyter. To get into a project and start coding/doing hands on work, is much more beneficial than simply reading about how a program works. One thing that I found frustrating however was the cross-over between Jupyter and GitHub. For the most part, this was seamless however at the end my pictures (which rendered on Jupyter with no issue) would not appear correctly on GitHub. This forced me to change the coding for the pictures. Initially, I had referenced downloaded images using the standard coding "!(xxx)[xxxxx.png/jpg]" however this no longer worked suddenly. I searched GitHub on Google and it appeared there was a software update recently however whether this is related I am unsure. I searched online extensively for a workaround which I found by then simply 'dragging' the image onto the Jupyter notebook. This is crude and makes the file quite large but works. 
