@@ -5,7 +5,8 @@
 ***
 You can view the static version of the notebook by clicking the following button:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/conor-mccaffrey/numpy_random/blob/main/numpy_random.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/conor-mccaffrey/numpy_random/blob/50a587b61dc10702034ab89e86b5a2cc46815d2a/numpy_random.ipynb)
+
 
 Alternatively, you can view the notebook in dynamic form by clicking the following button :
 
